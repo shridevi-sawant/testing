@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         nameE = findViewById(R.id.nameE)
         tv = findViewById(R.id.tv)
         btn = findViewById(R.id.button)
+        val hello = "hello"
     }
 
     fun btnClick(view: View) {
