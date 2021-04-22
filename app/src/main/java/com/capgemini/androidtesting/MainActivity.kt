@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
         nameE = findViewById(R.id.nameE)
         tv = findViewById(R.id.tv)
-        btn = findViewById(R.id.button)
+
     }
 
     fun btnClick(view: View) {
